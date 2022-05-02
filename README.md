@@ -31,3 +31,5 @@ Here is a photo of Pikachu for your enjoyment.
 # cs305_module05
 
 This is some great art- Zach Trusso
+
+10/10 Pikachu Art - Stefan Mihailovic
